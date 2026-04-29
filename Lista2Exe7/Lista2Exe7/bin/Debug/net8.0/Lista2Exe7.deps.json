@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lista2Exe7/1.0.0": {
+        "runtime": {
+          "Lista2Exe7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista2Exe7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

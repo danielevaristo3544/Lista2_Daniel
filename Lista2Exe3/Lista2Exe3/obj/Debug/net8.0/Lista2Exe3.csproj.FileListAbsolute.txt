@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\bin\Debug\net8.0\Lista2Exe3.exe
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\bin\Debug\net8.0\Lista2Exe3.deps.json
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\bin\Debug\net8.0\Lista2Exe3.runtimeconfig.json
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\bin\Debug\net8.0\Lista2Exe3.dll
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\bin\Debug\net8.0\Lista2Exe3.pdb
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\Lista2Exe3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\Lista2Exe3.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\Lista2Exe3.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\Lista2Exe3.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\Lista2Exe3.dll
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\refint\Lista2Exe3.dll
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\Lista2Exe3.pdb
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\Lista2Exe3.genruntimeconfig.cache
+C:\Users\aluno\source\repos\Lista2Exe3\Lista2Exe3\obj\Debug\net8.0\ref\Lista2Exe3.dll
