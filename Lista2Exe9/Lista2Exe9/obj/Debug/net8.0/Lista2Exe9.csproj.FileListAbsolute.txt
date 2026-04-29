@@ -1,0 +1,28 @@
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.exe
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.deps.json
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.runtimeconfig.json
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.dll
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.pdb
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.AssemblyInfo.cs
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.dll
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\refint\Lista2Exe9.dll
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.pdb
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.genruntimeconfig.cache
+C:\Users\aluno\source\repos\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\ref\Lista2Exe9.dll
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.exe
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.deps.json
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.runtimeconfig.json
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.dll
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\bin\Debug\net8.0\Lista2Exe9.pdb
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.AssemblyInfoInputs.cache
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.AssemblyInfo.cs
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.csproj.CoreCompileInputs.cache
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.dll
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\refint\Lista2Exe9.dll
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.pdb
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\Lista2Exe9.genruntimeconfig.cache
+D:\repos com cs2022\Lista2Exe9\Lista2Exe9\obj\Debug\net8.0\ref\Lista2Exe9.dll
